@@ -39,9 +39,9 @@
 		</dependency>
 		
 		<dependency>
-			<groupId>net.bis5.mattermost</groupId>
-			<artifactId>mattermost4j</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<groupId>net.bis5.mattermost4j</groupId>
+			<artifactId>mattermost4j-core</artifactId>
+			<version>0.0.1</version>
 		</dependency>
 
 		<dependency>
